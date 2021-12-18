@@ -1,4 +1,8 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=yacotaco.yacotaco)
+### code samples:
+* :white_circle: :black_circle: ![Reversi in JavaFx](https://github.com/yacotaco/Reversi) 
+* :white_circle: :robot: ![Reversi in JavaScript with AI modules]() :arrow_right: ![play]()
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yacotaco&show_icons=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yacotaco)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=yacotaco.yacotaco)
