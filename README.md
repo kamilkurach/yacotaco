@@ -3,6 +3,10 @@
 I'm currently working on my robot 🤖 (and other projects listed below) and looking for Software Engineering job opportunities.
 Ideally, in robotics or related to, like computer vision. I'm also interested in robotics hardware positions.
 
+<p float="center">
+    <img src="mrcoffee.gif" alt="drawing" width="400"/>
+</p>
+
 ### code:
 * :white_circle: :black_circle: [Reversi in JavaFx](https://github.com/yacotaco/Reversi) 
 * :construction: :white_circle: :robot: [Reversi 3D in JavaScript with AI](https://github.com/yacotaco/reversi-web) :arrow_right: [PLAY](https://yacotaco.github.io/reversi-web/)
