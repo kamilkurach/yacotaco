@@ -4,13 +4,8 @@ I'm currently working on my robot 🤖 (and other projects listed below) and loo
 Ideally, in robotics or related to, like computer vision. I'm also interested in robotics hardware positions.
 
 |<img src="mrcoffee2.gif" alt="drawing" width="250"/>|
-<img src="breadbording_led.gif" alt="drawing" width="300"/>|
-<img src="sparks.gif" alt="drawing" width="250"/>|
+<img src="teawmrcoffee.gif" alt="drawing"  width="331"/>|
 <img src="mrcoffee.gif" alt="drawing" width="300"/>|
-<img src="rot.gif" alt="drawing"  width="100"/>|
-<img src="top_section_assembly.gif" alt="drawing" width="300"/>|
-<img src="teawmrcoffee.gif" alt="drawing"  width="300"/>|
-
 
 ### code:
 * :white_circle: :black_circle: [Reversi in JavaFx](https://github.com/yacotaco/Reversi) 
