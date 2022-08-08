@@ -3,9 +3,9 @@
 I'm currently working on my robot 🤖 (and other projects listed below) and looking for Software Engineering job opportunities.
 Ideally, in robotics or related to, like computer vision. I'm also interested in robotics hardware positions.
 
-|<img src="mrcoffee2.gif" alt="drawing" width="250"/>|
-<img src="teawmrcoffee.gif" alt="drawing"  width="331"/>|
-<img src="mrcoffee.gif" alt="drawing" width="331"/>|
+|<img src="mrcoffee2.gif" alt="drawing" width="230"/>|
+<img src="teawmrcoffee.gif" alt="drawing"  width="308"/>|
+<img src="mrcoffee.gif" alt="drawing" width="308"/>|
 
 ### code:
 * :white_circle: :black_circle: [Reversi in JavaFx](https://github.com/yacotaco/Reversi) 
